@@ -1,5 +1,4 @@
 import { Heart, Star, Users, MessageCircle, CreditCard, User, Phone, Mail, MapPin } from 'lucide-react';
-import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -35,7 +34,7 @@ export default function Home() {
               The Woman Whisperer
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Unlock the secrets of women's hearts. Your personal relationship coach who can predict and guide you through any romantic situation.
+              Unlock the secrets of women&apos;s hearts. Your personal relationship coach who can predict and guide you through any romantic situation.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-pink-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-pink-700 transition-colors shadow-lg">
@@ -55,7 +54,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Meet Your SuperGirl</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              A relationship coach with almost clairvoyant abilities to predict women's actions and guide men to their perfect match.
+              A relationship coach with almost clairvoyant abilities to predict women&apos;s actions and guide men to their perfect match.
             </p>
           </div>
           
@@ -67,7 +66,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Your Relationship SuperHero</h3>
                 <p className="text-gray-600 mb-6">
-                  With years of experience as both a love coach and personal therapist, I've helped countless men understand the complex world of women's emotions and actions. My ability to predict and guide relationship dynamics has earned me the title of "The Woman Whisperer."
+                  With years of experience as both a love coach and personal therapist, I&apos;ve helped countless men understand the complex world of women&apos;s emotions and actions. My ability to predict and guide relationship dynamics has earned me the title of &quot;The Woman Whisperer.&quot;
                 </p>
                 <div className="flex items-center space-x-4">
                   <div className="flex text-yellow-400">
@@ -87,7 +86,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">Clairvoyant Insights</h4>
-                  <p className="text-gray-600">Predict and understand women's actions before they happen</p>
+                  <p className="text-gray-600">Predict and understand women&apos;s actions before they happen</p>
                 </div>
               </div>
               
@@ -132,7 +131,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Relationship Strategy</h3>
               <p className="text-gray-600 mb-6">
-                Personalized coaching to understand women's psychology and build lasting connections.
+                Personalized coaching to understand women&apos;s psychology and build lasting connections.
               </p>
               <div className="text-2xl font-bold text-pink-600 mb-2">$150/hour</div>
               <button className="w-full bg-pink-600 text-white py-3 rounded-lg hover:bg-pink-700 transition-colors">

@@ -187,7 +187,7 @@ export default function Payment() {
             <div className="bg-gradient-to-r from-pink-100 to-rose-100 rounded-2xl p-8">
               <h2 className="text-xl font-bold text-gray-900 mb-4">100% Satisfaction Guarantee</h2>
               <p className="text-gray-700 mb-4">
-                If you're not completely satisfied with your coaching session, we'll provide a full refund within 24 hours.
+                If you&apos;re not completely satisfied with your coaching session, we&apos;ll provide a full refund within 24 hours.
               </p>
               <div className="flex items-center space-x-2">
                 <CheckCircle className="h-5 w-5 text-green-500" />

@@ -91,7 +91,7 @@ export default function Portal() {
                   <div className="flex justify-between items-start mb-4">
                     <div>
                       <h3 className="text-lg font-semibold text-gray-900">Relationship Strategy</h3>
-                      <p className="text-gray-600">Understanding women's psychology</p>
+                      <p className="text-gray-600">Understanding women&apos;s psychology</p>
                     </div>
                     <span className="bg-blue-100 text-blue-600 px-3 py-1 rounded-full text-sm font-medium">
                       Next Week
