@@ -176,7 +176,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Ready to transform your love life? Let's start your journey to finding the perfect relationship.
+              Ready to transform your love life? Let&apos;s start your journey to finding the perfect relationship.
             </p>
           </div>
           
